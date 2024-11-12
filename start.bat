@@ -1,0 +1,1 @@
+npx http-server -S -C ./ssl.crt -K ./ssl.key -c-1 dist
